@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd06002e-ef85-4076-8608-01f4990bb214" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/heroku.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/live1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/numpy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/pandas.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diabetes-prediction-rfc-model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/diabetes-prediction-rfc-model.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/diabetes.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/no-diabetes.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/s.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/wall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/wallpaper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,22 +174,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1622896332487" />
-    <state width="1345" height="10" key="GridCell.Tab.0.bottom" timestamp="1622974677129">
+    <state width="1345" height="63" key="GridCell.Tab.0.bottom" timestamp="1624612723302">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="10" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
-    <state width="1345" height="10" key="GridCell.Tab.0.center" timestamp="1622974677129">
+    <state width="1345" height="63" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1624612723302" />
+    <state width="1345" height="63" key="GridCell.Tab.0.center" timestamp="1624612723302">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="10" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
-    <state width="1345" height="10" key="GridCell.Tab.0.left" timestamp="1622974677129">
+    <state width="1345" height="63" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1624612723302" />
+    <state width="1345" height="63" key="GridCell.Tab.0.left" timestamp="1624612723302">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="10" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
-    <state width="1345" height="10" key="GridCell.Tab.0.right" timestamp="1622974677129">
+    <state width="1345" height="63" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1624612723302" />
+    <state width="1345" height="63" key="GridCell.Tab.0.right" timestamp="1624612723302">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="10" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
+    <state width="1345" height="63" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1624612723302" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1622902895045">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
