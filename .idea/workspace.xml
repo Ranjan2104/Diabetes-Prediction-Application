@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd06002e-ef85-4076-8608-01f4990bb214" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/heroku.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/live1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/numpy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/pandas.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes-prediction-rfc-model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/diabetes-prediction-rfc-model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/diabetes.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/no-diabetes.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f4QbA7AXHAgHmYkKgGU4n9bKd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master">
+    <configuration name="Diabetes Predictor - Deployment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Diabetes Predictor - Deployment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master" type="PythonConfigurationType" factoryName="Python">
+      <module name="End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning-master" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Diabetes Predictor - Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd06002e-ef85-4076-8608-01f4990bb214" name="Default Changelist" comment="" />
+      <created>1595474953428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595474953428</updated>
+      <workItem from="1595474985087" duration="1729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622895768950">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1622895768950" />
+    <state x="378" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622896332487">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1622896332487" />
+    <state width="1345" height="10" key="GridCell.Tab.0.bottom" timestamp="1622974677129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="10" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
+    <state width="1345" height="10" key="GridCell.Tab.0.center" timestamp="1622974677129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="10" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
+    <state width="1345" height="10" key="GridCell.Tab.0.left" timestamp="1622974677129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="10" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
+    <state width="1345" height="10" key="GridCell.Tab.0.right" timestamp="1622974677129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="10" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1622974677129" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1622902895045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1622902895045" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1622902895045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1622902895045" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1622902895045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1622902895045" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1622902895045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1622902895045" />
+  </component>
+</project>
